@@ -1,0 +1,2 @@
+# wednesday
+learning devops
